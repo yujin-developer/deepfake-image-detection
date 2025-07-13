@@ -53,7 +53,7 @@ Please refer to the notebook file for detailed implementation and experiments.
 
 ## Results
 
-Detailed results, performance metrics, and analysis are described in the [report.pdf](./report.pdf).
+Detailed results, performance metrics, and analysis are described in the Paper.
 
 ---
 
@@ -61,16 +61,15 @@ Detailed results, performance metrics, and analysis are described in the [report
 
 The full thesis report is included:
 
-- ([deepfake-image-detection-thesis.pdf](./deepfake-image-detection-thesis.pdf)).
+- ([/Paper/Thesis_Deepfake_Detection_with_Images_Yujin_Jeon.pdf](/Paper/Thesis_Deepfake_Detection_with_Images_Yujin_Jeon.pdf)).
 
 ---
 
 ## Repository Structure
 
-- `/Code/01_initial_version.ipynb` ~ `/Code/07_final_version.ipynb`: Jupyter Notebooks containing all versions of the source code, showing the step-by-step research process. Version `07` is the final version.
-- `deepfake-image-detection-thesis.pdf`: Full thesis report.
-- `images/`: Example result images (if included).
-- `models/`: Saved model weights (if included).
+- `/Code/Code_Deepfake_Detection_with_Images_v01.ipynb` ~ `/Code/Code_Deepfake_Detection_with_Images_v07.ipynb`: Jupyter Notebooks containing all versions of the source code, showing the step-by-step research process. Version `07` is the final version.
+- `/Paper/Thesis_Deepfake_Detection_with_Images_Yujin_Jeon.pdf`: Full thesis report.
+- `models/`: Saved model metrics.
 
 ---
 
