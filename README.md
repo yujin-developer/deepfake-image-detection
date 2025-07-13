@@ -110,4 +110,4 @@ For any questions, feel free to contact:
 
 - **Yujin Jeon**
 - Email: yujin.jeon.developer@gmail.com
-- LinkedIn: [www.linkedin.com/in/yujin-jeon-288b37199](www.linkedin.com/in/yujin-jeon-288b37199)
+- LinkedIn: [https://www.linkedin.com/in/yujin-jeon-288b37199](www.linkedin.com/in/yujin-jeon-288b37199)
