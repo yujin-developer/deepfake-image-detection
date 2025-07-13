@@ -97,6 +97,7 @@ The full thesis report is included:
 - Seaborn
 
 ### Utilities and others
+- Google Colab
 - NumPy
 - Pandas
 - Joblib
