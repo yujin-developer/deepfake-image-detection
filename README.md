@@ -74,8 +74,6 @@ The full thesis report is included:
 
 ---
 
-## Acknowledgements
-
 ## Frameworks and Libraries Used
 
 ### Main deep learning and model libraries
@@ -111,5 +109,5 @@ The full thesis report is included:
 For any questions, feel free to contact:
 
 - **Yujin Jeon**
-- Email: your-email@example.com
-- LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+- Email: yujin.jeon.developer@gmail.com
+- LinkedIn: [www.linkedin.com/in/yujin-jeon-288b37199](www.linkedin.com/in/yujin-jeon-288b37199)
